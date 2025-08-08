@@ -1,4 +1,4 @@
-<img src="https://github.com/LiveWaffle/ASMos/raw/master/banner.png" alt="Banner" width="300" />
+<img src="https://github.com/LiveWaffle/ASMos/raw/master/banner.png" alt="Banner" width="800" />
 
 # A toy OS project made in x86 assembly.
 
