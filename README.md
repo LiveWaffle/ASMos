@@ -11,7 +11,7 @@ I'll be updating this repo throughout the year when i have time to relax and cod
 * QEMU
 * Terminal
 
-1.Install NASM and QEMU.
-2.Add QEMU to your system PATH so it can be run from anywhere.
+1. Install NASM and QEMU.
+2. Add QEMU to your system PATH so it can be run from anywhere.
 3. Run the build.ps1 script to compile the .asm files.
-4.Launch QEMU with the compiled .img file to boot the OS.
+4. Launch QEMU with the compiled .img file to boot the OS.
